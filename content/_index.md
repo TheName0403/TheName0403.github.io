@@ -5,9 +5,9 @@ title: "NAME"
 <!-- TODO: 初めに、最後にの文章修正、文章量を増やす。 -->
 
 
-<img src="/img/name_banner.jpeg" alt="バナー画像" style="width: 100%; height: auto;">
+<!-- <img src="/img/name_banner.jpeg" alt="バナー画像" style="width: 100%; height: auto;"> -->
 
-
+<!-- ルール説明動画 -->
 {{< youtube Tslbr9a1_XM >}}
 
 # はじめに
