@@ -1,0 +1,17 @@
+{{ define "main" }}
+<article class="card-detail">
+    <div class="card_title">{{ .Title }}</div>
+
+    <div class="card_body">
+        <div class="card_img">
+            <img src="/cards/card_img/{{ .Params.image }}" alt="{{ .Title }}">
+        </div>
+        <div class="card_content">
+            <div class="card_instruction">{{ .Params.card_instruction }}</div>
+            <div class="description">
+                {{ .Params.description | safeHTML }}
+            </div>
+        </div>
+    </div>
+</article>
+{{ end }}

@@ -1,0 +1,21 @@
+baseURL = "https://ken3-k.github.io/"
+languageCode = "ja"
+title = "人物推理カードゲーム NAME"
+theme = "plague"
+
+
+
+
+[params]
+  logo_image = "/img/name_logo.png"
+  siteHeaderText = "人物推理カードゲーム NAME"
+  # siteFooterText = "Powered by [Hugo](https://gohugo.io/) and the [plague](https://github.com/brianreumere/plague) theme. Hosted on the Gibson supercomputer ⌨️."
+
+  colors = "default-dark"
+
+	CustomStylesheet = "css/custom.css"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

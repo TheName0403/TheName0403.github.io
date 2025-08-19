@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css2?family=RocknRoll+One&display=swap');
+
+
+.site-header {
+    white-space: nowrap !important;
+    height: 54px;
+        align-items: center;
+        display: flex;
+    }
+
+    .site-logo {
+        height: 54px !important;
+        margin-right: 10px !important;
+}
+
+body {
+    background: var(--background-color);
+    color: var(--text-color);
+    /* font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Ubuntu, roboto, noto, arial, sans-serif; */
+    font-family: 'RocknRoll One', -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Ubuntu, roboto, noto, arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0px;
+    padding: 0px;
+    background-image: url("/img/BackGround.png");
+        background-size: 100% auto;
+        /* 横幅を100%に広げ、縦は自動調整 */
+        background-repeat: repeat-y;
+        /* 縦方向に繰り返す */
+        background-position: top center;
+        /* 上中央に配置 */
+}
+
+
+
+h1 {
+    font-size: 2.625em;
+    font-weight: bold;
+    font-style: italic;
+    /* color: darkgreen; */
+    line-height: 2;
+    letter-spacing: -1px;
+    background-image: url(/img//h1_background.png);
+    background-repeat: no-repeat;
+    background-size: auto 80%;
+    background-position: left bottom;
+    padding-left: 15px;
+    padding-bottom: 5px;
+    /* 白色で縁取り */
+    /* -webkit-text-stroke: 0.01px white; */
+}
+/* スマホ用のレスポンシブ対応 */
+@media (max-width: 768px) {
+    h1 {
+        font-size: 2em;
+        /* タブレットやスマホ用にフォントサイズを小さく */
+    }
+}
+
+@media (max-width: 480px) {
+    h1 {
+        font-size: 1.5em;
+        /* 小さいスマホ用にさらに小さく */
+    }
+}
+
+p,
+li {
+    /* background: black;
+    background-image: none; */
+    backdrop-filter: blur(100px);
+}
+/* カード一覧ページ用 */
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+        /* 列数は4列固定 */
+    grid-gap: 10px;
+    width: 100%;
+        /* デフォルトで全幅 */
+        max-width: 800px;
+        /* 最大幅を設定 */
+        margin: 0 auto;
+        /* 中央揃え */
+}
+
+.gallery img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+/* カード詳細ページ用 */
+.card-detail {
+    color: #f9f9f9;
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    /* font-family: sans-serif; */
+}
+
+.card_title {
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.card_body {
+    display: flex;
+    gap: 20px;
+    margin-bottom: 20px;
+    flex-wrap: nowrap;
+    align-items: flex-start;
+    justify-content: space-between;
+    /* 左右に配置 */
+}
+
+.card_img img {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+.card_img {
+    width: 40%;
+    text-align: center;
+}
+
+
+.card_content {
+    /* color: #f9f9f9; */
+    width: 60%;
+    /* 右側の幅 */
+    display: flex;
+    flex-direction: column;
+    /* 縦方向に並べる */
+    gap: 20px;
+    /* card_instruction と description の間にスペースを追加 */
+}
+
+
+.card_instruction {
+    /* color: #f9f9f9; */
+    width: 60%;
+    font-size: 1.1em;
+    /* background-color: #f9f9f9; */
+    padding: 15px;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    width: 100%;
+    /* 幅を親要素に合わせる */
+    box-sizing: border-box;
+    /* パディングを含めて幅を計算 */
+}
+
+.description {
+    /* color: #f9f9f9; */
+    font-size: 1em;
+    /* color: #555; */
+    line-height: 1.6;
+}

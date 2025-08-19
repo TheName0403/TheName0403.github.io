@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NAME on 人物推理カードゲーム NAME</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in NAME on 人物推理カードゲーム NAME</description>
+    <generator>Hugo 0.146.1</generator>
+    <language>ja</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3倍角の公式</title>
+      <link>http://localhost:1313/cards/card7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cards/card7/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ガンマ線バースト</title>
+      <link>http://localhost:1313/cards/card8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cards/card8/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>クーパー対</title>
+      <link>http://localhost:1313/cards/card6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cards/card6/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ローレンツ変換</title>
+      <link>http://localhost:1313/cards/card2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cards/card2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>不死鳥</title>
+      <link>http://localhost:1313/cards/card1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cards/card1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>初期質量関数</title>
+      <link>http://localhost:1313/cards/card4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cards/card4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>問い合わせ</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;h1 id=&#34;お問い合わせ&#34;&gt;お問い合わせ&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;e-Mail: namexnamexnamexname_at_gmail.com ( _at_を@に変えてください。)&lt;/li&gt;&#xA;&lt;li&gt;X(Twitter): &lt;a href=&#34;https://x.com/HIDENNAME0430&#34;&gt;https://x.com/HIDENNAME0430&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>生成演算子</title>
+      <link>http://localhost:1313/cards/card3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cards/card3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>遊び方</title>
+      <link>http://localhost:1313/how2play/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/how2play/</guid>
+      <description>&lt;h1 id=&#34;概要&#34;&gt;概要&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;プレイ人数&lt;/strong&gt;：2人以上 (2人と3人以上でルールが異なります)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;プレイ時間&lt;/strong&gt;：15分 ~ 30分&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;対象年齢&lt;/strong&gt;：10歳以上&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;『NAME』は、質問カードとアイテムカードを使って、&lt;br&gt;&#xA;ゲームマスター (GM) が思い浮かべた人物を他のプレイヤーが推理し、当てにいくカードゲームです。&lt;/p&gt;&#xA;&lt;h1 id=&#34;遊び方&#34;&gt;遊び方&lt;/h1&gt;&#xA;&lt;h2 id=&#34;３以上で遊ぶ場合&#34;&gt;３⼈以上で遊ぶ場合&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;GMの選定&lt;/strong&gt;&lt;br&gt;&#xA;1⼈をGMに選びます。GMは「誰もが知っている⼈物」を1⼈、頭の中で思い浮かべます。残りのプレイヤーが回答者になります。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;カードの準備&lt;/strong&gt;&lt;br&gt;&#xA;質問カードとアイテムカードを混ぜてよくシャッフルし、各プレイヤーに6枚ずつ配り、⾏動の順番を決めます。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;スペースの用意&lt;/strong&gt;&lt;br&gt;&#xA;⼭札と捨て札のスペースを⽤意します。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;ゲームスタート！&lt;/strong&gt;&lt;br&gt;&#xA;⾃分の⾏動時、「質問」もしくは「回答」を選択して行動します。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;「質問」を選んだ場合&lt;/strong&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;アイテムカード、続いて質問カードの順番で使用します.&lt;/li&gt;&#xA;&lt;li&gt;アイテムカードは任意の枚数使用可能です. 質問カードは、アイテムカードを使用しない限り1枚のみ使用可能です.&lt;/li&gt;&#xA;&lt;li&gt;質問カードには「」があり、そこに当てはまる自由な⾔葉を入れて質問文を構成します. GMは「はい」または「いいえ」で答えます.&lt;/li&gt;&#xA;&lt;li&gt;使用したカードはすべて、⼭札の隣の捨て札に置きます.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;「回答」を選んだ場合&lt;/strong&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;GMが思い浮かべている⼈物の名前を名指しで答えます.&lt;/li&gt;&#xA;&lt;li&gt;正解すればその場で勝利！間違えた場合は、1枚GMが捨て札から選んで捨てます.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;2ターン目以降&lt;/strong&gt;&lt;br&gt;&#xA;⾃分のターン開始時に⼭札からカードを1枚引き、その後「質問」または「回答」を選んで行動します.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;勝利条件&lt;/strong&gt;&lt;br&gt;&#xA;誰よりも早く、GMが思い浮かべている⼈物を正しく言い当てたプレイヤーが勝者となります.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;2で遊ぶ場合&#34;&gt;2⼈で遊ぶ場合&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;プレイヤーは交互にGMと回答者の役割を担当します（1ラウンドごとに交代）.&lt;/li&gt;&#xA;&lt;li&gt;各プレイヤーは⾃分の番で、相⼿が思い浮かべた⼈物をカードを使って当てにいきます.&lt;/li&gt;&#xA;&lt;li&gt;ルールは基本的に３⼈以上の場合と同じですが、一部のアイテムカードは使用できません.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;特別ルール由質問&#34;&gt;特別ルール：⾃由質問&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;質問カードがなくても、⼿札を2枚捨てることで、自由な質問を1ターン1回だけ行うことができます.&lt;/li&gt;&#xA;&lt;li&gt;ただし、このときアイテムカードは使用できません.&lt;/li&gt;&#xA;&lt;li&gt;また、GMが「はい」か「いいえ」で答えられる質問に限ります.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;戦略性&#34;&gt;戦略性&lt;/h1&gt;&#xA;&lt;h2 id=&#34;アイテムカードのコンボ&#34;&gt;アイテムカードのコンボ&lt;/h2&gt;&#xA;&lt;p&gt;アイテムカードは1ターンに何枚でも使えるため、組み合わせ次第で効果を引き上げ、一気に逆転するのも可能！&lt;/p&gt;&#xA;&lt;p&gt;例えば…&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;「隠れた変数理論」&lt;/strong&gt;：質問や回答の内容を他プレイヤーに見せずに実行。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;「3倍角の公式」&lt;/strong&gt;：質問または回答を3回連続で行える。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;この2枚の組み合わせで、他人に質問を聞かれず連続で3回質問できる！&lt;br&gt;&#xA;自分だけの組み合わせを見つけて、ゲームを一気に有利に進めよう！&lt;/p&gt;&#xA;&lt;h2 id=&#34;質問カードの工夫&#34;&gt;質問カードの工夫&lt;/h2&gt;&#xA;&lt;p&gt;質問カードを用いて質問する関係上、非常に制限を伴う。&lt;br&gt;&#xA;しかし、質問カードの空欄に入れる言葉は発想次第で質問できることも無限大である。&lt;/p&gt;&#xA;&lt;p&gt;例えば…&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;「『所属』ですか？」&lt;/strong&gt; → 「大学」「企業」「政党」「プロダクション」など&lt;br&gt;&#xA;言葉選び次第で質問の切れ味が変わる！&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;「『一般名詞』ですか？」&lt;/strong&gt; → 「職業」「性別」「出身」&lt;br&gt;&#xA;なんでも聞けるワイルドカード。これを「3倍角の公式」と組み合わせると、&lt;br&gt;&#xA;バラエティに富んだ質問をたった1枚の質問カードで、しかも3回聞ける！&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;ひらめきが質問の鋭さを決めると言っても過言ではない。&lt;/p&gt;&#xA;&lt;h2 id=&#34;プレイスタイルの多様性&#34;&gt;プレイスタイルの多様性&lt;/h2&gt;&#xA;&lt;p&gt;GMが1人の3〜5人プレイではパーティーゲームとして盛り上がり、2人プレイでは互いにGMとなって静かな読み合いを楽しむことも可能です。&lt;br&gt;&#xA;このように『NAME』は、人数やシーンに応じて、自由にスタイルを変えて遊ぶことができます！&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>隠れた変数理論</title>
+      <link>http://localhost:1313/cards/card5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cards/card5/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
+
