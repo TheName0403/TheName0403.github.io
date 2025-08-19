@@ -6,6 +6,7 @@ menu:
     weight: 1
 ---
 
+{{< youtube Tslbr9a1_XM >}}
 
 # 概要
 

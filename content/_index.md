@@ -7,6 +7,9 @@ title: "NAME"
 
 <img src="/img/name_banner.jpeg" alt="バナー画像" style="width: 100%; height: auto;">
 
+
+{{< youtube Tslbr9a1_XM >}}
+
 # はじめに
 
 ようこそ、新感覚推理カードゲーム『NAME』の世界へ！  
