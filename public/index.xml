@@ -64,6 +64,27 @@
       <description></description>
     </item>
     <item>
+      <title>質問カード</title>
+      <link>http://localhost:1313/cards/card10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cards/card10/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>質問カード</title>
+      <link>http://localhost:1313/cards/card11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cards/card11/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>質問カード</title>
+      <link>http://localhost:1313/cards/card9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cards/card9/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>遊び方</title>
       <link>http://localhost:1313/how2play/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
